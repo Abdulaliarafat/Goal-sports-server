@@ -7,8 +7,8 @@ A RESTful backend API built with **Node.js**, **Express.js**, **MongoDB**, **Fir
 
 ## 🧑‍💻 Getting Started
 
-# git clone https://github.com/Abdulaliarafat/BitClock-server.git
-# cd BitClock-server
+# git clone https://github.com/Abdulaliarafat/Goal-sports-server.git
+# cd Goal-sports-server
 # npm install
 # npm i express
 # http://localhost:3000
